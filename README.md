@@ -37,4 +37,4 @@ Directly open MainPage.xaml file in Visual studio and test it using the phone si
 
 
 
-This code is edited using Visual studio 2013 and simulated Windows phone Emulator.
+This code is edited using Visual studio 2013 and simulated using Windows phone Emulator.
