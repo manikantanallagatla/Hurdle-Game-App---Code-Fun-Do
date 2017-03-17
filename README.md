@@ -1,7 +1,7 @@
-#***Hurdle Game Phone Application project:***
+# ***Hurdle Game Phone Application project:***
 
 ----------
-###*Aim*:
+### *Aim*:
 
 ----------
 
@@ -9,19 +9,19 @@
 To create an application in which player need to play hurdle game and know his score and High score.
 
 -------------
-###*Softwares Used*:
+### *Softwares Used*:
 
 -------------
 Visual Studio 2013, Windows Phone Emulator.
 
 -------------
-###*Language Written*:
+### *Language Written*:
 
 -------------
 C#
 
 -------------
-###*Algorithm*:
+### *Algorithm*:
 
 -------------
 To create animation of player running we have played series of images in sequence very fastly. To jump when an hurdle comes, 
@@ -30,7 +30,7 @@ To create the animation of Hurdle moving we have moved the image of Hurdle to le
 Hurdle coming is set to be random.
 
 -------------
-###*Usage*:
+### *Usage*:
 
 -------------
 Directly open MainPage.xaml file in Visual studio and test it using the phone simulator
